@@ -1,0 +1,1 @@
+{"version":3,"file":"index.umd.js","sources":["../index.js"],"sourcesContent":["const intersperse = (arr, sep) =>\n  arr.reduce((a, v) => [...a, v, sep], []).slice(0, -1);\n\nexport { intersperse };\n"],"names":["arr","sep","reduce","a","v","slice"],"mappings":"mPAAoB,CAACA,EAAKC,IACxBD,EAAIE,OAAO,CAACC,EAAGC,IAAM,IAAID,EAAGC,EAAGH,GAAM,IAAII,MAAM,GAAI"}

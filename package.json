@@ -1,0 +1,39 @@
+{
+  "name": "@stefan8412/intersperse",
+  "version": "1.0.0",
+  "description": "Inserts an item between array elements",
+  "source": "index.js",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "microbundle",
+    "dev": "microbundle watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stefan8412/intersperse.git"
+  },
+  "keywords": [
+    "array"
+  ],
+  "author": "stefan <stefan@hancar.sk>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Stefan8412/intersperse/issues"
+  },
+  "homepage": "https://github.com/Stefan8412/intersperse#readme",
+  "devDependencies": {
+    "@babel/eslint-parser": "^7.13.14",
+    "@babel/preset-env": "^7.13.15",
+    "eslint": "^7.24.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-config-prettier": "^8.2.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-prettier": "^3.4.0",
+    "microbundle": "^0.13.0",
+    "prettier": "2.2.1"
+  },
+  "dependencies": {
+    "type-detect": "^4.0.8"
+  }
+}
