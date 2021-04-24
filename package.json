@@ -1,11 +1,10 @@
 {
   "name": "@stefan8412/intersperse",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Inserts an item between array elements",
   "source": "index.js",
   "main": "dist/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "test": "jest",
     "build": "microbundle",
     "dev": "microbundle watch"
