@@ -23,6 +23,9 @@
   "bugs": {
     "url": "https://github.com/Stefan8412/intersperse/issues"
   },
+  "files": [
+    "dist"
+  ],
   "homepage": "https://github.com/Stefan8412/intersperse#readme",
   "devDependencies": {
     "@babel/eslint-parser": "^7.13.14",
