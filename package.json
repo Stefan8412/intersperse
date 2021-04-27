@@ -1,6 +1,6 @@
 {
   "name": "@stefan8412/intersperse",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Inserts an item between array elements",
   "source": "index.js",
   "main": "dist/index.js",
